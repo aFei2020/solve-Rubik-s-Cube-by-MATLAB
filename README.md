@@ -1,2 +1,4 @@
-# solve-Rubik-s-Cube-by-MATLAB
-solve Rubik's Cube by MATLAB
+# solve-Sudoku-Game-by-MATLAB
+3 examples are given.
+
+If there is any question, plz feel free to contact me. (;
